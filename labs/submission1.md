@@ -26,6 +26,7 @@ Commit signing is important because DevOps is built on automation, trust, and se
 
 
 - Analysis of how PR templates improve collaboration.
+  
 PR templates make pull requests equally clear: the author always specifies the purpose, changes, and testing. This speeds up reviews, reduces the number of questions, and helps remember important checks thanks to the checklist.
 
 - Note any challenges encountered during setup.
